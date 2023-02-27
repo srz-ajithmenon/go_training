@@ -1,0 +1,19 @@
+{
+  "author": [
+    {
+      "id": 1,
+      "name": "Harish Mehta",
+      "book": "The Maverick Effect",
+      "email": "harishmehta@gmail.com",
+      "noofpages": "90"
+    },
+    {
+      "id": 2,
+      "name": "Bimal Jalal",
+      "book": "The India Story",
+      "email": "bimaljalal@gmail.com",
+      "noofpages": "55"
+    }
+  ]
+  
+}
